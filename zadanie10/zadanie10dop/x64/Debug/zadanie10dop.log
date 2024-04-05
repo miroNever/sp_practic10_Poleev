@@ -1,0 +1,3 @@
+﻿  zadanie10dop.cpp
+C:\zadanie10\zadanie10dop\zadanie10dop.cpp(36,12): warning C4312: приведение типов: преобразование из "int" в "HANDLE" большего размера
+  zadanie10dop.vcxproj -> C:\zadanie10\x64\Debug\zadanie10dop.exe
